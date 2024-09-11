@@ -1,4 +1,17 @@
 [
-  {"version":"0.0.5","url":"/docs/0.0.5/","isCurrent":true},
-  {"version":"0.0.6","url":"/docs/0.0.6","isCurrent":false}
+  {
+    "version": "0.0.1",
+    "url": "/docs/0.0.1-initial",
+    "isCurrent": true
+  },
+  {
+    "version": "0.0.2",
+    "url": "/docs/",
+    "isCurrent": true
+  },
+  {
+    "version": "0.0.3-alpha",
+    "url": "/docs/0.0.3-alpha/",
+    "isCurrent": false
+  }
 ]
